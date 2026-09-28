@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m **Pathan Farhana**, a **Full-Stack Engineer** focused on architecting and delivering **scalable web platforms, real-time systems, and AI-driven applications** across **React, Next.js, Node.js, Python, FastAPI, MongoDB, and AWS**.  
+I’m **Pathan Farhana**, a **Full-Stack Engineer** focused on architecting and delivering **scalable web platforms, real-time systems, and AI-driven applications** across **React, Next.js, Node.js, Python, MongoDB, and AWS**.  
 
 🏆 **3rd Place – HackVega 2.0**, a nationwide hackathon, where I earned a **₹25,000 cash prize** after advancing through three competitive rounds. My work spans **backend architecture, cloud infrastructure, system design, and LLM integration**.
 
